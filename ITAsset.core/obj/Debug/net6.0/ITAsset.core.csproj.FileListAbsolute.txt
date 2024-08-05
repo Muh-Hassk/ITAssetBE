@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\ITAsset\ITAsset.core\bin\Debug\net6.0\ITAsset.core.deps.json
+C:\Users\user\Desktop\ITAsset\ITAsset.core\bin\Debug\net6.0\ITAsset.core.dll
+C:\Users\user\Desktop\ITAsset\ITAsset.core\bin\Debug\net6.0\ITAsset.core.pdb
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.AssemblyInfo.cs
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.dll
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\refint\ITAsset.core.dll
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ITAsset.core.pdb
+C:\Users\user\Desktop\ITAsset\ITAsset.core\obj\Debug\net6.0\ref\ITAsset.core.dll
